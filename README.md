@@ -3,7 +3,7 @@
 ## Beginner
 
 1. [x] Write a programme which finds the factorial of a number entered by the user. (check for all conditions).
-2. [ ] Develop a programme to convert currency X to currency Y and vice versa.
+2. [x] Develop a programme to convert currency X to currency Y and vice versa.
 3. [ ] Write a programme that prins out a triangle from largest to smallest; user inputs the largest number. Eg:
 
 ```
@@ -60,31 +60,29 @@
 
 ## Expert
 
-- [ ] Write a programme which acted like a personal planner. A user can input an event, note things to-do on a certain date.
+27. [ ] Write a programme which acted like a personal planner. A user can input an event, note things to-do on a certain date.
 
 28. [] Make a Markov chain generator. Read text from a source, create a histogram and allow different prefix lengths. See [Think Python](http://greenteapress.com/thinkpython2/html/thinkpython2014.html#sec159) for info.
 29. [ ] Noughts and crosses game.
 30. [ ] Create a Youtube video downloader (actually really difficult cos Youtube tries to block everything)
 
-- [ ] Write a phone/address book programme, with persistent data. The users should be able to add/delete/change the data.
-- [ ] Write a simple payroll programme, that would include pay rates, and hours work for employees.
-- [ ] Write a card game, eg blackjack
-- [ ] Create a chess game.
-- [ ] Create a binary tree which has search and sorting functions.
-- [ ] Create a Quine, (a programme that prints out its own source code).
-- [ ] [C++] Implement your own `strstr`.
-- [ ] [C++] Implement your own version of the Standard Template Library.
-- [ ] [Make a pokedex](http://codereview.stackexchange.com/questions/135293/basic-pokedex-in-c) - use a database, enums for types/gender etc
-- [ ] Video format converter, eg .mov to .mp4 (ie frontend to ffmpeg)
-- [ ] URL shortener service
+31. [ ] Write a phone/address book programme, with persistent data. The users should be able to add/delete/change the data.
+32. [ ] Write a simple payroll programme, that would include pay rates, and hours work for employees.
+33. [ ] Write a card game, eg blackjack
+34. [ ] Create a chess game.
+35. [ ] Create a binary tree which has search and sorting functions.
+36. [ ] Create a Quine, (a programme that prints out its own source code).
+37. [ ] [Make a pokedex](http://codereview.stackexchange.com/questions/135293/basic-pokedex-in-c) - use a database, enums for types/gender etc
+38. [ ] Video format converter, eg .mov to .mp4 (ie frontend to ffmpeg)
+39. [ ] URL shortener service
 
 ## Graphics
 
-- [ ] Write a programme to draw a rectangle, ellipse, square, circle, point and line based on user input.
-- [ ] Create a paint programme. It should be possible to switch between different tools (circle, rectangle, eraser etc) using pre-defined key strokes.
-- [ ] Plot a simple x-y graph for a hardcoded function (e.g. y=cos(x)). It should be possible to zoom in on any part of the graph.
-- [ ] Write a programme to plot a graph of given equation of form y=f(x) and a range for x as command line arguments. (e.g. my_graph_plotter -eq="y=x\*x" -xmin=-10, -xmax=10) (PS: more to do with equation solving than graphics)
-- [ ] Write the classic brick break-out game (Arkanoid/Breakout)
+40. [ ] Write a programme to draw a rectangle, ellipse, square, circle, point and line based on user input.
+41. [ ] Create a paint programme. It should be possible to switch between different tools (circle, rectangle, eraser etc) using pre-defined key strokes.
+42. [ ] Plot a simple x-y graph for a hardcoded function (e.g. y=cos(x)). It should be possible to zoom in on any part of the graph.
+43. [ ] Write a programme to plot a graph of given equation of form y=f(x) and a range for x as command line arguments. (e.g. my_graph_plotter -eq="y=x\*x" -xmin=-10, -xmax=10) (PS: more to do with equation solving than graphics)
+44. [ ] Write the classic brick break-out game (Arkanoid/Breakout)
 
 fuzzy search (levenstein)
 gui
