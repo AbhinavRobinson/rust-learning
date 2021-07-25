@@ -24,7 +24,7 @@
 ******
 ```
 
-5. [ ] Print out a triangle from smallest to largest, skipping even rows. User inputs largest number, eg:
+5. [x] Print out a triangle from smallest to largest, skipping even rows. User inputs largest number, eg:
 
 ```
 *
