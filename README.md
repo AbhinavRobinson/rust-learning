@@ -84,11 +84,13 @@
 43. [ ] Write a programme to plot a graph of given equation of form y=f(x) and a range for x as command line arguments. (e.g. my_graph_plotter -eq="y=x\*x" -xmin=-10, -xmax=10) (PS: more to do with equation solving than graphics)
 44. [ ] Write the classic brick break-out game (Arkanoid/Breakout)
 
+# Additionals
+
 fuzzy search (levenstein)
 gui
 generative art
 
-Good resources for Rust:
+# Good resources for Rust
 
 - https://github.com/kud1ing/awesome-rust
 - https://github.com/ctjhoa/rust-learning
