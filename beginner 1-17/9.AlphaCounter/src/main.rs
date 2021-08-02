@@ -20,6 +20,9 @@ fn main() {
         if iter.is_ascii_digit() {
             println!("Encountered a number! Exiting..");
             break;
+        } else if !iter.is_alphabetic() {
+            println!("Encounterd a strange charachter! Exiting...");
+            break;
         }
         let mut has_vowels = false;
         for vowel in vowel_list {
@@ -32,7 +35,7 @@ fn main() {
             cons+=1;
         }
     }
-    
+
     // print out results
     println!("Vowels: {}\nConsonents: {}", vows, cons);
 }
